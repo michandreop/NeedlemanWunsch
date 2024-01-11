@@ -1,2 +1,2 @@
 # NeedlemanWunsch
-Implementation of the Needleman-Wunsch algorithm for protein global alignment
+Implementation of the Needleman-Wunsch algorithm for sequence alignment
